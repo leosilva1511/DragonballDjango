@@ -1,0 +1,1 @@
+import{b as s}from"./quizPlay.lOQvDL7G.js";import"./supabase.CvUZOQRQ.js";import"./_commonjsHelpers.BosuxZz1.js";import"./loginStore.D5QKI7Jc.js";import"./index.DzjgpxHp.js";class o extends HTMLElement{constructor(){super();const t=this.dataset.contendo!==void 0?JSON.parse(this.dataset.contendo):[];s.set(t)}}customElements.define("astro-storetransport",o);
